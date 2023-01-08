@@ -8,7 +8,7 @@
  * The code for Question and Answer generation from text.
  * The code for the FAST API server.
 
-Inside the _app_ folder:
+Inside this repo:
 
 * The _main.py_ file contains the FAST-API server code. 
 * The _qa_generation.py_ contains the code for Question and Answer generation.
