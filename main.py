@@ -2,7 +2,7 @@ from fastapi import FastAPI,File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
-from evaluation import answerEvaluation
+#from evaluation import answerEvaluation
 #from onnx_qg_model import Onnx_qg_model
 #import sys
 #from FYP_Core_logic.Question_Answer_generation.qa_generation import generate_mcqs
@@ -126,11 +126,11 @@ def gen_q(Ans_and_context: ans_and_context):
     q = Onnx_qg_model.get_question(Ans_and_context.answer, Ans_and_context.context)
     return q
 
-#Answer evaluation API
-@app.post("/evaluate_ans")
-def gen_q(target_and_attempt: target_and_attempt):
-    e = answerEvaluation(target_and_attempt.target, target_and_attempt.attempt)
-    return e
+#Answer evaluation API made by shazil
+# @app.post("/evaluate_ans")
+# def gen_q(target_and_attempt: target_and_attempt):
+#     e = answerEvaluation(target_and_attempt.target, target_and_attempt.attempt)
+#     return e
 
 
 if __name__ == "__main__":
