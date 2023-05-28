@@ -1,0 +1,1 @@
+Question: <pad> question: In what year did the US Navy develop an electromechanical analog computer for use aboard a submarine?</s>

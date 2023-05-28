@@ -1,0 +1,10 @@
+Question: <pad> question: How sophisticated were analog computers in the first half of the 20th century?</s>Answer: <pad> They were not programmable and lacked the versatility and accuracy of modern digital computers</s>
+
+Question: <pad> question: Who built the differential analyzer?</s>Answer: <pad> H. L. Hazen and Vannevar Bush</s>
+
+Question: <pad> question: What was the name of the mechanical analog computer that solved differential equations?</s>Answer: <pad> The differential analyser</s>
+
+Question: <pad> question: What type of computer was used to solve problems in the first half of the 20th century?</s>Answer: <pad> Analog computers</s>
+
+Question: <pad> question: What did the Torpedo Data Computer use to fire a torpedo at a moving target?</s>Answer: <pad> Trigonometry</s>
+

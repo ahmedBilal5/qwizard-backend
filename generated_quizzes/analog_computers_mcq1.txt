@@ -1,0 +1,32 @@
+Question: <pad> question: What was the Torpedo Data Computer designed to fire at?</s>
+Options: exceed, price, launch, attack
+Answer: target
+
+Question: <pad> question: What did analog computers continue to be used for in the 1950s?</s>
+Options: permits, data, extensions, solutions
+Answer: applications
+
+Question: <pad> question: In what year did the US Navy develop an electromechanical analog computer for use aboard a submarine?</s>
+Options: 1913, 1955, 1944, 1926
+Answer: 1938
+
+Question: <pad> question: Who was the elder brother of Sir William Thomson?</s>
+Options: Dani, Reina, Owen, Collin
+Answer: James
+
+Question: <pad> question: When was the differential analyser invented?</s>
+Options: 1893, 1852, 1884, 1904
+Answer: 1876
+
+Question: <pad> question: How many of the devices were built before their obsolescence became obvious?</s>
+Options: zillion, two or three, 100s, handful
+Answer: A dozen
+
+Question: <pad> question: What is an example of an analog computer used in education?</s>
+Options: physics textbook, protractor, abacus, digital watch
+Answer: slide rule
+
+Question: <pad> question: What is a control system?</s>
+Options: radar, cargo, carrier, fighter
+Answer: aircraft
+

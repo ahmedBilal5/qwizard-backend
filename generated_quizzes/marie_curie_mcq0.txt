@@ -1,0 +1,53 @@
+Question: <pad> question: In what year was Pierre Curie killed?</s>
+Options: 1921, 1883, 1889, 1916
+Answer: 1906
+
+Question: <pad> question: In what year did Curie win the Nobel Prize in chemistry?</s>
+Options: 1929, 1895, 1903, 1917
+Answer: 1911
+
+Question: <pad> question: How did Marie feel after her husband was killed?</s>
+Options: befallen, spared, wracked, persevered
+Answer: endured
+
+Question: <pad> question: What language is the Sorbonne?</s>
+Options: sarkozy, american, chinese, canadian
+Answer: French
+
+Question: <pad> question: What was the first gender to hold a professorship at the Sorbonne?</s>
+Options: boy, doctor, life, worker
+Answer: woman
+
+Question: <pad> question: What element did Marie Curie study?</s>
+Options: halt, yellowcake, pyongyang, enrichment
+Answer: uranium
+
+Question: <pad> question: What French university did Marie attend?</s>
+Options: polytechnique, musicology, louvain, sor
+Answer: Sorbonne
+
+Question: <pad> question: How long did Marie spend working together in the physics lab?</s>
+Options: weeks, days, months, decades
+Answer: years
+
+Question: <pad> question: What group of people were forbidden from attending Warsaw University?</s>
+Options: men, children, minorities, others
+Answer: women
+
+Question: <pad> question: What was Marie's major?</s>
+Options: anthropology, biochemistry, b.a., divinity
+Answer: doctorate
+
+Question: <pad> question: What was the result of Marie Curie's exposure to radium?</s>
+Options: collision, infection, failure, cause
+Answer: fatal
+
+Question: <pad> question: When was Marie married?</s>
+Options: 1907, 1871, 1884, 1889
+Answer: 1895
+
+Question: <pad> question: What did Marie feel when she was asked to become a physics professor?</s>
+Options: sawtooth, loneliness, magnificent, repugnance
+Answer: desolation
+
+Question: <pad> question: Where was Marie Curie born?</s>

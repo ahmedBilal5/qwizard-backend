@@ -1,0 +1,20 @@
+Question: <pad> question: What did analog computers lack in terms of accuracy and versatility?</s>Answer: <pad> They were not programmable and lacked the accuracy of modern digital computers</s>
+
+Question: <pad> question: What type of model did computers use to solve problems?</s>Answer: <pad> They used a mechanical or electrical model of the problem to solve the problem</s>
+
+Question: <pad> question: Who invented the torque amplifiers?</s>Answer: <pad> H. W. Nieman</s>
+
+Question: <pad> question: Who invented the differential analyser?</s>Answer: <pad> James Thomson</s>
+
+Question: <pad> question: What was the name of the mechanical analog computer that solved differential equations?</s>Answer: <pad> The differential analyser</s>
+
+Question: <pad> question: How many differential analyzers were built before their obsolescence became obvious?</s>Answer: <pad> A dozen</s>
+
+Question: <pad> question: How many of the devices built before their obsolescence became obvious?</s>Answer: <pad> A dozen</s>
+
+Question: <pad> question: What is an example of an analog computer used in education?</s>Answer: <pad> The differential analyser</s>
+
+Question: <pad> question: What was the target of the Torpedo Data Computer?</s>Answer: <pad> The target was a moving submarine</s>
+
+Question: <pad> question: What type of ship could the US Navy use an analog computer?</s>Answer: <pad> A submarine</s>
+

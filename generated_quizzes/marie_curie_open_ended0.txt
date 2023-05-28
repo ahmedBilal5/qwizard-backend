@@ -1,0 +1,20 @@
+Question: <pad> question: What did Marie want to pursue after high school?</s>Answer: <pad> She wanted to pursue a career in physics</s>
+
+Question: <pad> question: What award did Curie receive in 1911 for isolating radium?</s>Answer: <pad> The Nobel Prize in chemistry</s>
+
+Question: <pad> question: What did Marie do in 1891?</s>Answer: <pad> She entered the Sorbonne</s>
+
+Question: <pad> question: What did Marie Curie and Pierre help unlock?</s>Answer: <pad> The secrets of the atom</s>
+
+Question: <pad> question: What French university did Marie attend?</s>Answer: <pad> The Sorbonne</s>
+
+Question: <pad> question: Who was one of the most accomplished scientists in history?</s>Answer: <pad> Marie Curie</s>
+
+Question: <pad> question: What did Marie remember sharing in her research?</s>Answer: <pad> They shared a passion for physics.</s>
+
+Question: <pad> question: What did Marie feel when she was asked to become a physics professor?</s>Answer: <pad> She felt depressed</s>
+
+Question: <pad> question: What was Marie Curie's father's occupation?</s>Answer: <pad> Professor of physics</s>
+
+Question: <pad> question: What institution of higher education was closed to women?</s>Answer: <pad> Warsaw University</s>
+

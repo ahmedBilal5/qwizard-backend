@@ -1,0 +1,22 @@
+Question: <pad> question: What prompted Marie to continue her studies after high school?</s>Answer: <pad> Her great exuberance for learning prompted her to continue her studies after high school</s>
+
+Question: <pad> question: What was Pierre killed by?</s>Answer: <pad> He was killed by a horse-drawn wagon</s>
+
+Question: <pad> question: What did Marie do in 1891?</s>Answer: <pad> She entered the Sorbonne</s>
+
+Question: <pad> question: How did Marie feel about studying at the Sorbonne?</s>Answer: <pad> She was impressed with the professors and the professors.</s>
+
+Question: <pad> question: What was Marie Curie's first characteristic?</s>Answer: <pad> She was a blithe personality</s>
+
+Question: <pad> question: What did Marie have to raise by herself?</s>Answer: <pad> Two young daughters</s>
+
+Question: <pad> question: What happened to Pierre Curie in 1906?</s>Answer: <pad> Pierre Curie was killed by a horse-drawn wagon</s>
+
+Question: <pad> question: What French university did Marie attend?</s>Answer: <pad> The Sorbonne</s>
+
+Question: <pad> question: Who was one of the most accomplished scientists in history?</s>Answer: <pad> Marie Curie</s>
+
+Question: <pad> question: Along with uranium, what other element did Marie Curie study?</s>Answer: <pad> Radium</s>
+
+Question: <pad> question: What did Marie feel when she was asked to become a physics professor?</s>Answer: <pad> She felt depressed</s>
+

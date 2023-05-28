@@ -1,0 +1,16 @@
+Question: <pad> question: Did Marie's distress increase or decrease due to the fact that she had two young daughters to raise?</s>Answer: <pad> She was more distressed than she was before</s>
+
+Question: <pad> question: Why did Marie continue to study after high school?</s>Answer: <pad> She was excited about learning and wanted to continue to study.</s>
+
+Question: <pad> question: What was Marie Curie's first characteristic?</s>Answer: <pad> She was a blithe personality</s>
+
+Question: <pad> question: What degree did Marie earn at the Sorbonne?</s>Answer: <pad> She earned her masterâ€TMs degree and doctorate in physics</s>
+
+Question: <pad> question: What did Marie do with Pierre Curie?</s>Answer: <pad> She studied physics at the Sorbonne.</s>
+
+Question: <pad> question: What was the Nobel Prize for?</s>Answer: <pad> She was a chemist</s>
+
+Question: <pad> question: How did Marie spend her time together in the physics lab?</s>Answer: <pad> She and Pierre were married in 1895.</s>
+
+Question: <pad> question: Where was Marie Curie born?</s>Answer: <pad> Poland</s>
+

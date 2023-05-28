@@ -1,0 +1,18 @@
+Question: <pad> question: What does the stamp do to acknowledge the continuing leave conferred by the individual's entry clearance?</s>Answer: <pad> The stamp activates and/or acknowledges the continuing leave conferred by the individual's
+
+Question: <pad> question: What do the different stamps make it easier for immigration officers to identify?</s>Answer: <pad> They make it easier for them to identify the person concerned.</s>
+
+Question: <pad> question: Who places stamps on passports?</s>Answer: <pad> Border control officials</s>
+
+Question: <pad> question: What is included in a passport in the UK?</s>Answer: <pad> The immigration stamp is a formal "leave to enter"</s>
+
+Question: <pad> question: What can stamps serve?</s>Answer: <pad> They can serve many different purposes</s>
+
+Question: <pad> question: What country has a QR code on its passport?</s>Answer: <pad> Japan</s>
+
+Question: <pad> question: What does Japan have a QR code for?</s>Answer: <pad> The passport entry sticker</s>
+
+Question: <pad> question: What is the code on the passport entry sticker in Japan?</s>Answer: <pad> QR code</s>
+
+Question: <pad> question: What is the time period that a person is allowed to remain in the United Kingdom?</s>Answer: <pad> Three months</s>
+

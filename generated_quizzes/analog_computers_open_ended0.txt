@@ -1,0 +1,16 @@
+Question: <pad> question: What did analog computers lack in terms of versatility and accuracy?</s>Answer: <pad> They were not programmable and lacked the accuracy of modern digital computers</s>
+
+Question: <pad> question: What type of model did computers use to solve problems?</s>Answer: <pad> They used a mechanical or electrical model of the problem to solve the problem</s>
+
+Question: <pad> question: What was the differential analyser designed to solve?</s>Answer: <pad> It was designed to solve differential equations by integration using wheel-and-disc mechanisms</s>
+
+Question: <pad> question: What was the Torpedo Data Computer designed to fire at a moving target?</s>Answer: <pad> It was designed to fire a torpedo at a moving target</s>
+
+Question: <pad> question: What was the name of the computer developed by the US Navy in 1938?</s>Answer: <pad> The Torpedo Data Computer</s>
+
+Question: <pad> question: How many differential analyzers were built before their obsolescence became obvious?</s>Answer: <pad> A dozen</s>
+
+Question: <pad> question: What country developed an electromechanical analog computer that could be used aboard a submarine?</s>Answer: <pad> The United States Navy</s>
+
+Question: <pad> question: What is an example of an analog computer used in education?</s>Answer: <pad> The differential analyser</s>
+

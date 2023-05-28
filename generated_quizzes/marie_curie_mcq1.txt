@@ -1,0 +1,33 @@
+Question: <pad> question: In what year was Pierre Curie killed?</s>
+Options: 1921, 1883, 1889, 1916
+Answer: 1906
+
+Question: <pad> question: In what year did Curie win the Nobel Prize in chemistry?</s>
+Options: 1929, 1895, 1903, 1917
+Answer: 1911
+
+Question: <pad> question: What language is the Sorbonne?</s>
+Options: sarkozy, american, chinese, canadian
+Answer: French
+
+Question: <pad> question: What element did Marie Curie study?</s>
+Options: halt, yellowcake, pyongyang, enrichment
+Answer: uranium
+
+Question: <pad> question: What French university did Marie attend?</s>
+Options: polytechnique, musicology, louvain, sor
+Answer: Sorbonne
+
+Question: <pad> question: What institution of higher education was closed to women?</s>
+Options: ph.d., science, berkeley, emory
+Answer: university
+
+Question: <pad> question: What did Marie do that prompted her to continue her studies after high school?</s>
+Options: hard way, relearned, unlearn, learn't
+Answer: learned
+
+Question: <pad> question: When was Marie married?</s>
+Options: 1907, 1871, 1884, 1889
+Answer: 1895
+
+Question: <pad> question: Where was Marie Curie born?</s>
